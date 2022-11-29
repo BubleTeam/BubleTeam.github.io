@@ -22,7 +22,7 @@ function Contact()
 
 function Enter()
 {
-    window.location.href = "../Html/menu.html"; 
+    window.location.href = "../../main.html"; 
 }
 
 function isNotEmpty(value) {//to use in the checking funtion.
